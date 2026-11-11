@@ -1,4 +1,6 @@
-# Hi, I'm Navaneeta Keke 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=220&section=header&text=Navaneeta%20Mohan%20Keke&fontSize=45&fontColor=FF4081&animation=scaleIn" width="100%" />
+</p>
 
 🎓 **B.Tech CSE Student (AI & Data Science)** @ DES Pune University  
 🚀 Building web applications, practicing C algorithms, and exploring AI-assisted workflows.
