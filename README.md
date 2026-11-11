@@ -5,10 +5,10 @@
 
 <!-- Social & Contact Badges -->
 <p align="left">
-  <a href="https://linkedin.com/in/navaneeta-keke" target="_blank">
+  <a href="https://linkedin.com/in/navaneeta-keke-221b37424" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:navaneetamkeke@gmail.com">
+  <a href="mailto:navaneeta008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -53,8 +53,8 @@
 ### ⚡ GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeta08&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeta08&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeta08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeta08&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
